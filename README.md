@@ -1,1 +1,3 @@
 # Channel-Factory-Linear-Regression
+
+This model is a simple machine learning algorithm, linear regression, that predicts the amount of clicks that can be expected from a campaign at a certain cost for the top ad groups (Topics - Motorsport Fanatics, Topics - Offroad & Auto Enthusiasts, KW - Adventure Seekers, KW - Motorsport Fanatics, KW - Adventurers). This model can be adapted across many other metrics including pricing max bid to generate clicks, conversions, and more. The next steps would be to utilize more historic data as well as including more metrics in the data to further forecast and also researching what other machine algorithms could be implemented on the data set to optimize campaigns.
